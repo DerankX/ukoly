@@ -1,3 +1,2 @@
-# Tahak
+# Ukoly
 
-## Taháky z jazyka C
